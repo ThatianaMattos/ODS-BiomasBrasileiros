@@ -140,6 +140,32 @@ h1,h2 {
 }
 
 
+
+.objetivos1 {
+    grid-column: 1/4;
+}
+
+.objetivos {
+    margin: 10px ;
+    display: block;
+    margin-bottom: 30px;
+    grid-column: 1/4;
+    
+}
+
+.objetivos h1 {
+    font-size: 6em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4E3C2C;
+    text-transform: capitalize;
+    
+}
+.obj{
+    grid-column: 2/4;
+    padding-bottom: 50px;
+}
+
+
 .curiosidades1 {
     grid-column: 1/4;
 }
